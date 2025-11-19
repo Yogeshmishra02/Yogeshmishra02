@@ -1,33 +1,5 @@
 <h1 align="center">👋 Hey! I’m Yogesh Mishra</h1>
 
-<h1 align="center">Hi 👋, I'm Yogesh Mishra</h1>
-
-<p align="center">
-A Passionate Java Full Stack Developer | Java Lover | Tech Explorer
-</p>
-
-<h2 align="center">
-  <span style="
-    background: linear-gradient(90deg, #ff4da6, #4da6ff, #33ff99, #ffa64d);
-    background-size: 400% 400%;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    animation: gradientText 5s ease infinite;
-    font-weight: bold;
-    font-size: 28px;
-  ">
-    ✨ Hello Welcome, I'm Yogesh Mishra! 💻
-  </span>
-</h2>
-
-<style>
-@keyframes gradientText {
-  0% {background-position: 0% 50%;}
-  50% {background-position: 100% 50%;}
-  100% {background-position: 0% 50%;}
-}
-</style>
-
 ---
 
 ## 💻 Tech Stack (Fresher Level)
